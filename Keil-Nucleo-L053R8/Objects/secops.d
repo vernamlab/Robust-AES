@@ -1,0 +1,10 @@
+.\objects\secops.o: rAES\secops.c
+.\objects\secops.o: rAES\secops.h
+.\objects\secops.o: rAES\gfops.h
+.\objects\secops.o: rAES\params.h
+.\objects\secops.o: C:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.0\Device\Include\stm32l053xx.h
+.\objects\secops.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0plus.h
+.\objects\secops.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\secops.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h
+.\objects\secops.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h
+.\objects\secops.o: C:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.0\Device\Include\system_stm32l0xx.h

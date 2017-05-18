@@ -1,0 +1,11 @@
+.\objects\aes_funcs.o: rAES\aes_funcs.c
+.\objects\aes_funcs.o: rAES\aes_funcs.h
+.\objects\aes_funcs.o: rAES\secops.h
+.\objects\aes_funcs.o: rAES\gfops.h
+.\objects\aes_funcs.o: rAES\params.h
+.\objects\aes_funcs.o: C:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.0\Device\Include\stm32l053xx.h
+.\objects\aes_funcs.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0plus.h
+.\objects\aes_funcs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\aes_funcs.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h
+.\objects\aes_funcs.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h
+.\objects\aes_funcs.o: C:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.0\Device\Include\system_stm32l0xx.h
